@@ -1,1 +1,2 @@
 file2 
+appending file2 
